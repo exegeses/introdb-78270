@@ -9,3 +9,7 @@ CREATE TABLE proveedores
     email varchar(50) not null,
     direccion varchar(150)
 );
+
+-- modificación de tipo de datos en la columna cuit
+ALTER TABLE proveedores
+    MODIFY cuit bigint not null;

@@ -40,4 +40,3 @@
     timestamp   '1780532244' 
 
 > UNIX timestamp: El tiempo transcurrido expresado en milisegundos desde el 01-01-1970
-> 
