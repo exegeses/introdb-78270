@@ -39,3 +39,30 @@
 
     SELECT producto, precio  
       FROM productos;  
+
+### Orden de los resultados
+> para ordenar los resultados según una columna en particular, tenemos el **ORDER BY** seguido de la columna de orden
+
+    SELECT *   
+        FROM marcas  
+        ORDER BY idMarca;  
+
+    SELECT producto, precio  
+      FROM productos  
+      ORDER BY precio;  
+
+> El modificador **DESC** sirve para hacer un orden inverso (descendente)
+
+    SELECT *  
+      FROM personas  
+      ORDER BY alta DESC;  
+
+    SELECT producto, precio  
+      FROM productos  
+      ORDER BY precio DESC;   
+
+> Podemos utilizar dos criterios de orden
+
+    SELECT producto, precio  
+      FROM productos  
+      ORDER BY idMarca, precio;  
