@@ -1,0 +1,51 @@
+idProducto,producto,precio,"precio * 1.05",marca,categoria
+1,"Samsung Galaxy S25",1200000.00,1260000.0000,Samsung,Smartphones
+2,"Apple iPhone 16 Pro",1800000.00,1890000.0000,Apple,Smartphones
+3,"LG OLED 55" 4K",2500000.00,2625000.0000,LG,Televisores
+4,"Sony PlayStation 5 Pro",1500000.00,1575000.0000,Sony,"Consolas de Videojuegos"
+5,"Philips AirFryer XXL",350000.00,367500.0000,Philips,"Pequeños Electrodomésticos"
+6,"Lenovo ThinkPad X1 Carbon",2200000.00,2310000.0000,Lenovo,Notebooks
+7,"HP Pavilion 15"",1400000.00,1470000.0000,HP,Notebooks
+8,"Dell XPS 13",2000000.00,2100000.0000,Dell,Notebooks
+9,"Asus ROG Strix Gaming",2800000.00,2940000.0000,Asus,Notebooks
+10,"Acer Nitro 5",1600000.00,1680000.0000,Acer,Notebooks
+11,"Huawei MatePad 11",600000.00,630000.0000,Huawei,Tablets
+12,"Xiaomi Redmi Note 14",800000.00,840000.0000,Xiaomi,Smartphones
+13,"Motorola Edge 50",950000.00,997500.0000,Motorola,Smartphones
+14,"Noblex Smart TV 43" FHD",500000.00,525000.0000,Noblex,Televisores
+15,"BGH Heladera 350L",900000.00,945000.0000,BGH,Heladeras
+16,"TCL QLED 65" 4K",1800000.00,1890000.0000,TCL,Televisores
+17,"Hisense Lavarropas 8kg",700000.00,735000.0000,Hisense,Lavarropas
+18,"JBL Charge 5",250000.00,262500.0000,JBL,Parlantes
+19,"Epson EcoTank L3250",400000.00,420000.0000,Epson,Impresoras
+20,"Canon EOS R50",1200000.00,1260000.0000,Canon,Cámaras
+21,"Samsung Galaxy Tab S9",1100000.00,1155000.0000,Samsung,Tablets
+22,"Apple AirPods Pro 2",450000.00,472500.0000,Apple,Auriculares
+23,"LG UltraWide 34" Monitor",900000.00,945000.0000,LG,Monitores
+24,"Sony WH-1000XM5",600000.00,630000.0000,Sony,Auriculares
+25,"Philips Microondas 30L",300000.00,315000.0000,Philips,Microondas
+26,"Lenovo IdeaPad 3",1100000.00,1155000.0000,Lenovo,Notebooks
+27,"HP DeskJet 2775",200000.00,210000.0000,HP,Impresoras
+28,"Dell Inspiron 24 All-in-One",1800000.00,1890000.0000,Dell,"PC de Escritorio"
+29,"Asus TUF Gaming Monitor 27"",700000.00,735000.0000,Asus,Monitores
+30,"Acer Aspire 5",1300000.00,1365000.0000,Acer,Notebooks
+31,"Huawei Watch GT 4",400000.00,420000.0000,Huawei,Smartwatches
+32,"Xiaomi Smart TV 55" 4K",800000.00,840000.0000,Xiaomi,Televisores
+33,"Motorola Moto G85",650000.00,682500.0000,Motorola,Smartphones
+34,"Noblex Aire Acondicionado 3000F",900000.00,945000.0000,Noblex,"Aires Acondicionados"
+35,"BGH Microondas 20L",250000.00,262500.0000,BGH,Microondas
+36,"TCL Smartphone 20 Pro",700000.00,735000.0000,TCL,Smartphones
+37,"Hisense Heladera 400L",1100000.00,1155000.0000,Hisense,Heladeras
+38,"JBL Flip 6",200000.00,210000.0000,JBL,Parlantes
+39,"Epson Proyector Home Cinema",1200000.00,1260000.0000,Epson,Proyectores
+40,"Canon Pixma G6010",350000.00,367500.0000,Canon,Impresoras
+41,"Samsung Monitor 27" Curvo",600000.00,630000.0000,Samsung,Monitores
+42,"Apple Watch Series 10",800000.00,840000.0000,Apple,Smartwatches
+43,"LG Lavarropas 10kg",850000.00,892500.0000,LG,Lavarropas
+44,"Sony Bravia 50" 4K",1400000.00,1470000.0000,Sony,Televisores
+45,"Philips Licuadora 700W",150000.00,157500.0000,Philips,"Pequeños Electrodomésticos"
+46,"Lenovo Yoga 7",1900000.00,1995000.0000,Lenovo,Notebooks
+47,"HP Envy x360",1700000.00,1785000.0000,HP,Notebooks
+48,"Dell UltraSharp 32" 4K",1100000.00,1155000.0000,Dell,Monitores
+49,"Asus ZenBook 14",2000000.00,2100000.0000,Asus,Notebooks
+50,"Acer Predator Helios 300",2400000.00,2520000.0000,Acer,Notebooks
