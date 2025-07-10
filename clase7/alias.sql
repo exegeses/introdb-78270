@@ -35,6 +35,3 @@ FROM productos AS p
          JOIN categorias AS c
               ON p.idCategoria = c.idCategoria
 ORDER BY idProducto;
-
-
-
